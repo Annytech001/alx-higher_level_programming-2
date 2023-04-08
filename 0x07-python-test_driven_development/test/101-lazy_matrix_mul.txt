@@ -1,4 +1,5 @@
-# 101-lazy_matrix_mul.txt
+ii
+ 
 
 =================================
 How to Use 101-lazy_matrix_mul.py
@@ -217,4 +218,3 @@ equivalent. Otherwise, a ValueError is raised.
     >>> print(lazy_matrix_mul(m_a, m_b))
     Traceback (most recent call last):
     ValueError: setting an array element with a sequence.
-
